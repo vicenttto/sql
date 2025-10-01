@@ -7,7 +7,7 @@ Ejercicios y prácticas de bases de datos con **SQL** y **MySQL**.
 - Inserción y actualización de datos  
 - Modificación de estructuras y relaciones  
 - Eliminación de datos y tablas  
-- Consultas avanzadas (subconsultas, joins)  
+- Consultas avanzadas   
 - Funciones, procedimientos, bucles y condicionales  
 - Control de errores
 
